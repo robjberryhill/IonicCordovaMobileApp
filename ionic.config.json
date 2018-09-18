@@ -1,0 +1,7 @@
+{
+  "name": "FinalProject-MobileApps",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
